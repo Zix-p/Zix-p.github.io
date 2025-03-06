@@ -6,7 +6,7 @@ const MapPage = () => {
     return (
         <div className="app-container">
             <header className="header">
-                <Link to="/"> Back</Link>
+                <Link to="/" className="backButton"> Back</Link>
                 UCLA Food Hub
                 </header>
             <div className="map-content">

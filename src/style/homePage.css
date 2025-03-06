@@ -26,6 +26,7 @@ header {
   text-align: center;
   padding: 1.5rem;
   font-size: 28px;
+  width: 100vw;
   font-weight: bold;
 }
 
@@ -37,4 +38,9 @@ header {
   padding: 12px;
   border-radius: 8px;
   text-decoration: none;
+}
+
+.backButton {
+  padding-right: 25%;
+  color: white;
 }
